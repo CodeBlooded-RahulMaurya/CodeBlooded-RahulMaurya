@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, my name is Rahul Maurya
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodeBlooded-RahulMaurya)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBlooded-RahulMaurya&theme=synthwave)]
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeBlooded-RahulMaurya&show_icons=true&theme=synthwave)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CodeBlooded-RahulMaurya&theme=synthwave)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CodeBlooded-RahulMaurya&theme=synthwave)  
+
+![Profile views](https://gpvc.arturio.dev/CodeBlooded-RahulMaurya)  
