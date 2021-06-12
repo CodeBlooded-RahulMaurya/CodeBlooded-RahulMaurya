@@ -13,6 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Rahul Maurya
+
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+<img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/c++.png?raw=true" height="60" width="60">
+<img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/JS.png?raw=true" height="60" width="60">
+<!-- <img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/node-js-1174925.png" height="60" width="60"> -->
+<img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/html.png?raw=true" height="60" width="60">
+
+<br>
+
+<img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya/blob/main/logos/bootstrap.png?raw=true" height="60" width="60">
+</div>
+
+
+## 🏆 Github Status
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodeBlooded-RahulMaurya)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBlooded-RahulMaurya&theme=synthwave)]
