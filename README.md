@@ -1,18 +1,10 @@
-<!--
-**CodeBlooded-RahulMaurya/CodeBlooded-RahulMaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, My name is Rahul Maurya.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning Frontend Web Devlopment.
+- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodeBlooded-RahulMaurya)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋, my name is Rahul Maurya
+
 
 ## 👨‍💻 Languages and Tools
 
@@ -36,14 +28,14 @@ Here are some ideas to get you started:
 
 ## 🏆 Github Status
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodeBlooded-RahulMaurya)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBlooded-RahulMaurya&theme=synthwave)]
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBlooded-RahulMaurya&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBlooded-RahulMaurya&theme=synthwave">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=CodeBlooded-RahulMaurya&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeBlooded-RahulMaurya&show_icons=true&theme=synthwave)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CodeBlooded-RahulMaurya&theme=synthwave)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CodeBlooded-RahulMaurya&theme=synthwave)  
 
 ![Profile views](https://gpvc.arturio.dev/CodeBlooded-RahulMaurya)  
