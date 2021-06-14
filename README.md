@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning Frontend Web Devlopment.
 - 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodeBlooded-RahulMaurya)  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeBlooded-RahulMaurya&label=Profile%20views&color=0e75b6&style=flat" alt="shubham7999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeBlooded-RahulMaurya&label=Profile%20views&color=0e75b6&style=flat" alt="RahulMaurya" /> </p>
 
 
 ## 👨‍💻 Languages and Tools
