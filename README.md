@@ -1,41 +1,88 @@
-### Hi there 👋, My name is Rahul Maurya.
+<h1> 👨🏻‍💻 Hey, I'm Rahul Maurya!  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
-- 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently learning Frontend Web Devlopment.
-<!-- - 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahulmaurya-exe)  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulmaurya-exe&label=Profile%20views&color=0e75b6&style=flat" alt="RahulMaurya" /> </p>
---!>
+    I'm a passionate web developer who loves to create awesome websites and web applications. Welcome to my GitHub profile! 
+<br> 
 
-## 👨‍💻 Languages and Tools
-
-<div align="center">
+<h1>🚀 About Me</h1>
+<div style="display:flex; align-items:center; justify-content: space-around; ">
   
-<img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/JS.png?raw=true" height="60" width="60">
-<!-- <img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/node-js-1174925.png" height="60" width="60"> -->
-<img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/html.png?raw=true" height="60" width="60">
+
+ <div width="50%">
+
+    - 🌱 I’m currently learning and exploring new technologies in web development.
+    - 💡 I enjoy working on frontend development and creating user-friendly interfaces.
+    - 💼 I'm actively seeking opportunities to collaborate on web development projects.
+    - 🎓 I hold a degree in Computer Science and have a strong foundation in    programming.
+
+</div>
+ <div>
+ <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZlaG1lajM1cmgzM2ZmeGEydjQzeGNkb3hjNGR4N29mbzhnN2ppYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" alt="Hola Coders" height="auto"/> 
+</div>
+</div>
 
 <br>
 
-<img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/rahulmaurya-exe/rahulmaurya-exe/blob/main/logos/bootstrap.png?raw=true" height="60" width="60">
-</div>
+# 💻 Tech Stack:
+- **Languages:**&nbsp; 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)&nbsp; 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) &nbsp; 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) &nbsp; 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp; 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+&nbsp; 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) &nbsp; 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+
+- **Frameworks:** &nbsp; 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)   &nbsp; 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  &nbsp; 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) &nbsp; 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+
+- **Databases:** &nbsp; 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) &nbsp; 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+<br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmaurya-exe&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=rahulmaurya-exe&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahulmaurya-exe&theme=solarized-dark&hide_border=false)<br/>
 
 
-## 🏆 Github Status
+<br>
 
-<p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmaurya-exe&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmaurya-exe&theme=synthwave">
-</p>
-<img src="https://activity-graph.herokuapp.com/graph?username=rahulmaurya-exe&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
-<div align="center">
+# 👀 Visitor Counter
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmaurya-exe&show_icons=true&theme=synthwave)  
+![Visitor Count](https://profile-counter.glitch.me/rahulmaurya-exe/count.svg)
 
 
+<br>
+<br>
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- 
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/asdf) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/asdf) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@asdf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/asdf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/asdf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@asdf)  -->
+
+<!-- ## 💻 Programming Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+ -->
+ <!-- ## 📫 Let's Connect
+
+You can find me on various platforms. Let's connect and chat!
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Personal Website](https://www.yourwebsite.com)
+
+## 🤝 Looking to Collaborate?
+
+I'm always open to collaborating on interesting web development projects. If you have an idea or project in mind, feel free to reach out to me. Let's build something amazing together!
+ -->
 
