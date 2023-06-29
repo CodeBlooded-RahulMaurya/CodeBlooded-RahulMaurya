@@ -1,23 +1,22 @@
 <h1> 👨🏻‍💻 Hey, I'm Rahul Maurya!  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-
-    I'm a passionate web developer who loves to create awesome websites and web applications. Welcome to my GitHub profile! 
+I'm a passionate web developer who loves to create awesome websites and web applications. Welcome to my GitHub profile! 
 <br> 
 
 <h1>🚀 About Me</h1>
-<div style="display:flex; align-items:center; justify-content: space-around; ">
+<div style="display:flex; align-items:center; justify-content: center; ">
   
 
- <div width="50%">
+ <div >
 
-    - 🌱 I’m currently learning and exploring new technologies in web development.
-    - 💡 I enjoy working on frontend development and creating user-friendly interfaces.
-    - 💼 I'm actively seeking opportunities to collaborate on web development projects.
-    - 🎓 I hold a degree in Computer Science and have a strong foundation in    programming.
+- 🌱 I’m currently learning and exploring new technologies in web development.
+- 💡 I enjoy working on frontend development and creating user-friendlyinterfaces.
+- 💼 I'm actively seeking opportunities to collaborate on web developmentprojects.
+- 🎓 I hold a degree in Computer Science and have a strong foundation in   programming.
 
 </div>
- <div>
+<!--  <div width="50%" >
  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZlaG1lajM1cmgzM2ZmeGEydjQzeGNkb3hjNGR4N29mbzhnN2ppYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" alt="Hola Coders" height="auto"/> 
-</div>
+</div> -->
 </div>
 
 <br>
